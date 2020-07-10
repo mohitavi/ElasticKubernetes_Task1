@@ -54,7 +54,7 @@ spec:
               name: mariadb-pass
               key: password
          - name: MYSQL_USER
-           value: chirag
+           value: mohit
          - name: MYSQL_PASSWORD
            valueFrom:
              secretKeyRef:
